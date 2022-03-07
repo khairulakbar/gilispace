@@ -14,7 +14,7 @@
   <link href="<?php echo base_url() . 'assets/front/'; ?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
-  <link href="<?php echo base_url() . 'assets/front/'; ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="<?php echo base_url() . 'assets/front/'; ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">-->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
@@ -23,6 +23,9 @@
 
   <!-- Custom styles for this template -->
   <link href="<?php echo base_url() . 'assets/front/'; ?>css/freelancer.min.css" rel="stylesheet">
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9030678066228412"
+     crossorigin="anonymous"></script>
 
   <style>
     #astro {

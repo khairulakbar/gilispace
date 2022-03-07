@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost:3307',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'endogasin',
+	'hostname' => 'localhost',
+	'username' => 'gilispac_gilis',
+	'password' => 'gilislombok2022',
+	'database' => 'gilispac_gilis',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

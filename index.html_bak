@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coming Soon!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9030678066228412"
+     crossorigin="anonymous"></script>
+     
+<style>
+	body {
+	  background-image: url("beach.jpg");
+	  background-repeat: no-repeat, repeat;
+	  background-size: cover;
+	}
+    .tengah{
+        margin-top: 50px;
+    }
+    .teks{
+        padding-top: 60px;
+    }
+    .footer{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height:50px;
+        color: #FFFFFF;
+		margin-top: 200px;
+        padding: 20px 0 15px 0;
+        background-color: #31c4a8;
+    }
+	h4{
+		color: #0a7f69;
+	}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="row tengah">
+        <div class="col-md-4 mt-5 teks">
+            <h1 class="text-white text-uppercase"><strong>Coming Soon!</strong></h1>
+            <br>
+            <h4><strong>We are going to make something great here..</strong> </h4>
+
+            <br>
+            
+        </div>
+        <div class="col-md-8">
+            <!-- Your SVG here -->
+        </div>
+    </div>
+</div>
+
+<div class="footer text-center">
+    <span><h6>Lombok,ID - Gilispace.com</h6></span>
+</div>
+
+</body>
+</html>

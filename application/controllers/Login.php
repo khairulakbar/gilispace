@@ -14,7 +14,7 @@ class Login extends CI_Controller {
 		else{
 			$sub_data['info']=$this->session->userdata('info');
 
-			$this->load->view('login/login', $sub_data);
+			$this->load->view('login/Login', $sub_data);
 			
 			$this->session->unset_userdata('info');       
 		}
@@ -36,7 +36,7 @@ class Login extends CI_Controller {
 				$sess_data['nama'] = $sess->nama;
 				$sess_data['level'] = $sess->level;
 				$sess_data['pass_user'] = $sess->pass_user;
-				$sess_data['tgl_expired'] = $sess->tgl_expired;
+				//$sess_data['tgl_expired'] = $sess->tgl_expired;
 				$sess_data['status'] = $sess->status;
 				$this->session->set_userdata($sess_data);
 			}
